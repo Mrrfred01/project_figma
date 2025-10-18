@@ -1,0 +1,238 @@
+.tablet-location-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.tablet-location-tablet-location {
+  width: 100%;
+  height: 1252px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.tablet-location-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 427px;
+  position: absolute;
+}
+ 
+.tablet-location-rectangle-copy {
+  top: 36px;
+  left: 22px;
+  width: 56px;
+  height: 65px;
+  position: absolute;
+}
+ 
+.tablet-location-path2 {
+  top: 85px;
+  left: 54px;
+  width: 8px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.tablet-location-rectangle {
+  top: 36.2498779296875px;
+  left: 78px;
+  width: 208px;
+  height: 65px;
+  position: absolute;
+}
+ 
+.tablet-location-text10 {
+  top: 57px;
+  left: 118px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Big Shoulders Display;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tablet-location-frame8 {
+  top: 427px;
+  left: 0px;
+  width: 768px;
+  height: 479px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-almostblack);
+}
+ 
+.tablet-location-text11 {
+  top: 98px;
+  left: 27px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Black;
+  text-align: left;
+  font-family: Big Shoulders Display;
+  font-weight: 900;
+  line-height: 70px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tablet-location-text15 {
+  top: 216px;
+  left: 325px;
+  color: var(--dl-color-default-white);
+  width: 421px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 32px;
+}
+ 
+.tablet-location-text16 {
+  top: 36px;
+  left: 325px;
+  color: var(--dl-color-default-gold);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 36px;
+}
+ 
+.tablet-location-text17 {
+  top: 98px;
+  left: 325px;
+  color: var(--dl-color-default-white);
+  width: 445px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 32px;
+}
+ 
+.tablet-location-frame9 {
+  top: 906px;
+  left: 2px;
+  width: 768px;
+  height: 346px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-gold);
+}
+ 
+.tablet-location-text23 {
+  top: 84px;
+  left: 243px;
+  color: var(--dl-color-default-almostblack);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Outfit;
+  font-weight: 300;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.tablet-location-modernartgallery {
+  top: 96px;
+  left: 32px;
+  width: 110px;
+  height: 40px;
+  position: absolute;
+}
+ 
+.tablet-location-group9 {
+  top: 83px;
+  left: 599px;
+  width: 100px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.tablet-location-path1 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.tablet-location-shape {
+  top: 0px;
+  left: 40px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.tablet-location-path3 {
+  top: 2.247999906539917px;
+  left: 80px;
+  width: 20px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.tablet-location-link {
+  display: contents;
+}
+ 
+.tablet-location-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.tablet-location-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.tablet-location-text24 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

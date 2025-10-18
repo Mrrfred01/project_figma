@@ -1,0 +1,234 @@
+.desktop-location-active-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop-location-active-desktop-location-active {
+  width: 100%;
+  height: 1346px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.desktop-location-active-imagemap2x1 {
+  top: 0px;
+  left: 0px;
+  width: 1462px;
+  height: 609px;
+  position: absolute;
+}
+ 
+.desktop-location-active-rectangle-copy {
+  top: 44px;
+  left: 103px;
+  width: 56px;
+  height: 60px;
+  position: absolute;
+}
+ 
+.desktop-location-active-path2 {
+  top: 59px;
+  left: 130px;
+  width: 8px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.desktop-location-active-rectangle {
+  top: 41.24983215332031px;
+  left: 159px;
+  width: 208px;
+  height: 65px;
+  position: absolute;
+}
+ 
+.desktop-location-active-text10 {
+  top: 59px;
+  left: 182px;
+  color: var(--dl-color-default-white);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Big Shoulders Display;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop-location-active-frame4 {
+  top: 609px;
+  left: 0px;
+  width: 1462px;
+  height: 436px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-almostblack);
+}
+ 
+.desktop-location-active-group7 {
+  top: 66px;
+  left: 99px;
+  width: 1011px;
+  height: 297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop-location-active-text11 {
+  top: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  text-align: left;
+  line-height: 70px;
+}
+ 
+.desktop-location-active-text15 {
+  top: 169px;
+  left: 471px;
+  color: var(--dl-color-default-white);
+  width: 540px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 32px;
+}
+ 
+.desktop-location-active-text16 {
+  left: 471px;
+  color: var(--dl-color-default-gold);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 36px;
+}
+ 
+.desktop-location-active-text17 {
+  top: 51px;
+  left: 471px;
+  color: var(--dl-color-default-white);
+  width: 445px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 32px;
+}
+ 
+.desktop-location-active-frame5 {
+  top: 1031px;
+  left: 0px;
+  width: 1462px;
+  height: 315px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-gold);
+}
+ 
+.desktop-location-active-iconfacebook {
+  top: 86px;
+  left: 1258px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+ 
+.desktop-location-active-vector1 {
+  top: 62.64453125px;
+  left: 1329.0137939453125px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.desktop-location-active-vector2 {
+  top: 65.64453125px;
+  left: 1188.013916015625px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.desktop-location-active-text23 {
+  top: 86px;
+  left: 566px;
+  color: var(--dl-color-default-almostblack);
+  width: 430px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: left;
+  font-family: Outfit;
+  font-weight: 300;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop-location-active-text24 {
+  top: 63px;
+  left: 94px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  text-align: left;
+  line-height: 60px;
+}
+ 
+.desktop-location-active-link {
+  display: contents;
+}
+ 
+.desktop-location-active-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.desktop-location-active-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.desktop-location-active-text28 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
